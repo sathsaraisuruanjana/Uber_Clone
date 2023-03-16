@@ -1,0 +1,311 @@
+/*nav_bar*/
+.nav_bar{
+  background-color:black;
+  padding-left:100px ;
+  color:white;
+}
+.nav_bar_left_side{
+  padding-top: 15px;
+  padding-left: 300px;
+}
+.uber_logo{
+  height: 70px;
+  width: 70px;
+  cursor: pointer;
+}
+.btn_nav{
+  background-color: black;
+  border-color: black;
+  gap: 5px;
+  font-weight: bold;
+}
+.btn_nav:hover{
+  background-color: gray;
+}
+.down_btn{
+  padding-left: 5px;
+}
+.btn_nav_signup{
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  border-color: black;
+}
+.btn_nav_signup:hover{
+  background-color: whitesmoke;
+}
+.language{
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+/*second_items*/
+body{
+  background-image: url("https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_576,h_432/v1653688539/assets/ae/d8db42-6e67-4c9e-9741-1c7503a1983c/original/DotCom_Update_Earner_bg_sml2x.jpg");
+  background-repeat: no-repeat;
+  background-size: 1545px 900px;
+}
+
+.card{
+  width: 550px;
+  height: 500px;
+  border-color: black;
+  margin-left: 200px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.line1{
+  width: 100%;
+  padding: 0px;
+  margin: 0;
+}
+.u{
+  padding-top: 12px;
+  padding-bottom: 6px;
+}
+.card_up{
+  font-weight: bold;
+  font-size: 16px;
+  padding-left: 35px;
+}
+.card_mid{
+  margin-top: 10px;
+  font-size: 50px;
+  font-weight: bold;
+}
+.btn_drive{
+  margin-top: 40px;
+  height: 50px;
+  width: 150px;
+  background-color: black;
+  border-color: black;
+  gap: 5px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.card-bot{
+  margin-top: 20px;
+}
+.mid_img {
+  margin-top: 105px;
+  height:475px;
+  width: 1520px;
+  background: url(".angular/HP-U4B-NYC-bkg.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.u_business{
+  padding-top: 150px;
+  font-weight: bold;
+  font-size: 35px;
+  padding-left: 200px;
+}
+.mid-p{
+  padding-left: 200px;
+}
+.btn_see{
+  margin-left:200px;
+  height: 50px;
+  width: 150px;
+  background-color: black;
+  border-color: black;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+/*third-items*/
+.img_down1{
+  width: 550px;
+  height: 400px;
+  margin-left: 200px;
+}
+.img_down2{
+  width: 550px;
+  height: 400px;
+  margin-left: 30px;
+}
+.img_para1{
+  margin-left: 200px;
+}
+.img_para2{
+  margin-left: 30px;
+}
+.sign{
+  height: 45px;
+}
+.u_safety{
+  padding-top: 50px;
+  font-weight: bold;
+  font-size: 35px;
+  padding-left: 200px;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+.u_safety2{
+  padding-top: 50px;
+  font-weight: bold;
+  font-size: 35px;
+  padding-left: 20px;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+.line2{
+  margin-right: 5px;
+  width: 550px;
+  align-items: center;
+}
+.line3{
+  width: 550px;
+  margin-left: 5px;
+}
+
+.para3{
+  margin-top: 100px;
+  margin-left: 200px;
+}
+.para4{
+  margin-top: 100px;
+  margin-left: 20px;
+}
+.para5{
+  margin-top: 100px;
+}
+.para6{
+  font-size: 16px;
+}
+.card_two{
+  margin-top: 50px;
+  background-color: #ECECEC;
+  padding:40px;
+}
+
+.card_down1{
+  width: 550px;
+  height: 200px;
+  margin-left: 150px;
+  cursor: pointer;
+}
+.card_down2{
+  width: 550px;
+  height: 200px;
+  cursor: pointer;
+}
+.hr1{
+  width: 250px;
+  margin-left: 1px;
+}
+.hr2{
+  width: 100px;
+  margin-left: 1px;
+}
+.hr3{
+  width: 150px;
+  margin-left: 1px;
+}
+.hr4{
+  width: 100px;
+  margin-left: 1px;
+}
+.hr5{
+  width: 125px;
+  margin-left: 1px;
+}
+.para7{
+  margin-top: 50px;
+  font-size: 23px;
+  font-weight: bold;
+}
+.u_card{
+  padding-top: 10px;
+  font-weight: bold;
+  font-size: 35px;
+  padding-left: 150px;
+}
+.arrow_small{
+  margin-left: 45px;
+  cursor: pointer;
+}
+.arrow_big{
+  margin-left: 200px;
+  cursor: pointer;
+}
+.black{
+  background-color: black;
+  color: white;
+  height: 115vh;
+}
+.uber_logo2{
+  height: 70px;
+  width: 70px;
+  cursor: pointer;
+
+}
+.white_font1{
+  color: white;
+  margin-top: 35px;
+  font-weight: bold;
+}
+.white_font{
+  color: white;
+  margin-top: 60px;
+  font-weight: bold;
+}
+
+.black_row{
+  padding-top: 100px;
+  margin-left: 200px;
+  margin-right:250px;
+  margin-top: 150px;
+  cursor: pointer;
+}
+.row2{
+  margin-top: 100px;
+  cursor: pointer;
+}
+.row2_c:hover{
+  color: gray;
+  cursor: pointer;
+}
+.social_media{
+  padding-left: 165px;
+  margin-top: 50px;
+}
+.media{
+  padding-left: 80px;
+  cursor: pointer;
+}
+.media_icon1{
+  padding-right: 60px;
+}
+.media_icon2{
+  padding-right: 80px;
+}
+.btn_media{
+  background-color: transparent;
+  border-color: transparent;
+  width: 50px;
+  height: 50px;
+  margin-left: 35px;
+}
+.btn_media:hover{
+  background-color: gray;
+}
+.btn_media2{
+  background-color: transparent;
+  border-color: transparent;
+  width: 150px;
+  height: 50px;
+}
+.btn_media2:hover{
+  background-color: gray;
+}
+.city{
+  padding-left: 350px;
+}
+.city_colombo{
+  padding-left: 10px;
+  cursor: pointer;
+}
+.big_btn{
+  padding-left: 180px;
+  cursor: pointer;
+}
